@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/582718021.svg)](https://zenodo.org/doi/10.5281/zenodo.12507163)
 
-<h1 align="center">Diet Recommendation System</h1>
+<h1 align="center">AI based meal Recommendation System</h1>
 <div align= "center"><img src="Assets/logo_img1.jpg" />
-  <h4>A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
+  <h4>A meal recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
 </div>
 
 # Diet-Recommendation-System
@@ -81,7 +81,7 @@ The project is created with:
 ### Run it locally
 #### Clone the repo
 ```
-$ git clone https://github.com/zakaria-narjis/Diet-Recommendation-System
+$ git clone https://github.com/amitk2003/AI-based-meal-Recommendation-System
 ```
 ### docker-compose
 In the project root run:
@@ -95,16 +95,3 @@ PS: You should have docker and docker-compose already installed
 
 https://diet-recommendation-system.streamlit.app/
 
-## Citation
-```
-@software{narjis_2024_12507829,
-  author       = {Narjis, Zakaria},
-  title        = {Diet recommendation system},
-  month        = jun,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {v1.0.1},
-  doi          = {10.5281/zenodo.12507829},
-  url          = {https://doi.org/10.5281/zenodo.12507829}
-}
-```
